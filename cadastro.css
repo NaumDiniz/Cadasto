@@ -1,0 +1,68 @@
+container {
+    width: 500px;
+    height: 500px;
+
+}
+
+#desc {
+    width: 350px;
+}
+
+#qnt {
+    width: 37px;
+}
+
+#cb {
+    width: 90px;
+}
+
+#preco {
+    width: 50px;
+}
+
+#validade {
+    width: 65px;
+}
+
+body {
+
+    background-color: #021826;
+
+}
+
+#container {
+    position: relative;
+    width: 650px;
+    height: 500px;
+    background-color: #2e62a6;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+
+}
+
+#menu {
+    width: 1000px;
+    height: 54px;
+
+    background-color: #fffF;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-family: helvetica;
+    font-size: xx-large;
+}
+
+#menu2 {
+    background-color: #fffF;
+
+}
+
+#lateral {
+    background-color: white;
+    width: 100px;
+    height: 500px;
+    position: absolute;
+    left: 18.9%;
+    top: 8.4%;
+}
